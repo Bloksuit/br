@@ -1,6 +1,6 @@
 {
-  "name": "MyToken Token",
-  "symbol": "MYT",
+  "name": "PRX",
+  "symbol": "PRX",
   "description": "The official utility token of the MyToken project.",
   "image": "https://raw.githubusercontent.com/Bloksuit/br/refs/heads/main/mytoken-logo.png?token=GHSAT0AAAAAADN6JEMDGHBCOHZHSSBTDIF42H6SYDQ",
   "external_url": "https://mytoken.io",
@@ -30,6 +30,7 @@
     ]
   }
 }
+
 
 
 
