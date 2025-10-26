@@ -2,7 +2,7 @@
   "name": "MyToken Token",
   "symbol": "MYT",
   "description": "The official utility token of the MyToken project.",
-  "image": "/mytoken-logo.png",
+  "image": "https://raw.githubusercontent.com/Bloksuit/br/refs/heads/main/mytoken-logo.png?token=GHSAT0AAAAAADN6JEMDGHBCOHZHSSBTDIF42H6SYDQ",
   "external_url": "https://mytoken.io",
   "attributes": [
     {
@@ -17,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "/mytoken-logo.png",
+        "uri": "https://raw.githubusercontent.com/Bloksuit/br/refs/heads/main/mytoken-logo.png?token=GHSAT0AAAAAADN6JEMDGHBCOHZHSSBTDIF42H6SYDQ",
         "type": "image/png"
       }
     ],
@@ -30,5 +30,6 @@
     ]
   }
 }
+
 
 
