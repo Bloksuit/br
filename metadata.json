@@ -1,8 +1,8 @@
 {
-  "name": "PRX",
-  "symbol": "PRX",
+  "name": "MyToken Token",
+  "symbol": "MTK",
   "description": "The official utility token of the MyToken project.",
-  "image": "https://raw.githubusercontent.com/Bloksuit/br/refs/heads/main/mytoken-logo.png?token=GHSAT0AAAAAADN6JEMDGHBCOHZHSSBTDIF42H6SYDQ",
+  "image": "https://github.com/Bloksuit/br/blob/ad217231d37557e94e00f0cb178aa009573fa520/mytoken-logo.png",
   "external_url": "https://mytoken.io",
   "attributes": [
     {
@@ -17,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Bloksuit/br/refs/heads/main/mytoken-logo.png?token=GHSAT0AAAAAADN6JEMDGHBCOHZHSSBTDIF42H6SYDQ",
+        "uri": "https://github.com/Bloksuit/br/blob/ad217231d37557e94e00f0cb178aa009573fa520/mytoken-logo.png",
         "type": "image/png"
       }
     ],
@@ -30,6 +30,7 @@
     ]
   }
 }
+
 
 
 
