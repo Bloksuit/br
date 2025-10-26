@@ -1,32 +1,20 @@
 {
-  "name": "MyToken Token",
-  "symbol": "MYT",
-  "description": "The official utility token of the MyToken project.",
-  "image": "<IMAGE_URI>",
-  "external_url": "https://mytoken.io",
-  "attributes": [
+  "version": 2,
+  "headers": [
     {
-      "trait_type": "Category",
-      "value": "Utility"
+      "source": "/metadata.json",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Content-Type", "value": "application/json; charset=utf-8" }
+      ]
     },
     {
-      "trait_type": "Network",
-      "value": "Solana Devnet"
+      "source": "/images/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "<IMAGE_URI>",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "YOUR_WALLET_PUBLIC_KEY_HERE",
-        "share": 100
-      }
-    ]
-  }
+  ]
 }
