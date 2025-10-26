@@ -2,7 +2,7 @@
   "name": "MyToken Token",
   "symbol": "MYT",
   "description": "The official utility token of the MyToken project.",
-  "image": "<IMAGE_URI>",
+  "image": "/mytoken.png",
   "external_url": "https://mytoken.io",
   "attributes": [
     {
@@ -17,16 +17,17 @@
   "properties": {
     "files": [
       {
-        "uri": "<IMAGE_URI>",
+        "uri": "/mytoken.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "YOUR_WALLET_PUBLIC_KEY_HERE",
+        "address": "GkztwK1gERPcCNs5TseK3VG8riRkMQsykHAbrXqHwLgT",
         "share": 100
       }
     ]
   }
 }
+
